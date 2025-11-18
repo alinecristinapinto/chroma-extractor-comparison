@@ -3,3 +3,6 @@ A benchmark comparing the Deep Chroma Extractor (madmom) against standard chroma
 
 ### Dataset
 [Schubert Winterreise Dataset - HU33](https://zenodo.org/records/3968389)
+
+### Running notebooks
+`py -m jupyter notebook`
